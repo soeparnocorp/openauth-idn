@@ -19,15 +19,5 @@
 "observability": {
 "enabled": true
 },
-"compatibility_flags": ["nodejs_compat"],
-"build": {
-"command": "npm install && npm run build",
-"cwd": "."
-},
-"routes": [
-{
-"pattern": "openauth-idn.soeparnocorp.workers.dev/*",
-"script": "openauth-idn"
-}
-]
+"compatibility_flags": ["nodejs_compat"]
 }
