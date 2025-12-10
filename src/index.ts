@@ -49,8 +49,8 @@ return issuer({
     ),
   },
   theme: {
-    title: "myAuth",
-    primary: "#0051c3",
+    title: "IDN Chat",
+    primary: "#0000cc",
     favicon: "https://workers.cloudflare.com/favicon.ico",
     logo: {
       dark: "https://imagedelivery.net/wSMYJvS3Xw-n339CbDyDIA/db1e5c92-d3a6-4ea9-3e72-155844211f00/public",
